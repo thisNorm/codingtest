@@ -1,4 +1,4 @@
-class Solution {  
+class practice0113 {  
     public long solution(long n) {  
         long answer = 0;  
 
@@ -36,7 +36,7 @@ class Solution {
     }  
 
     public static void main(String[] args) {  
-        Solution solution = new Solution();  
+        practice0113 solution = new practice0113();  
 
         long input = 118372; // 입력 값  
         long output = solution.solution(input); // 솔루션 함수 실행  

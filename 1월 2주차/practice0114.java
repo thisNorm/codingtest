@@ -1,4 +1,4 @@
-class Solution {
+class practice0114 {
     public boolean solution(int x) {
         boolean answer = true;
         int sum = 0;
@@ -27,7 +27,7 @@ class Solution {
 
 public static void main(String[] args) {
     int x = 10;
-    Solution solution = new Solution();
+    practice0114 solution = new practice0114();
     System.out.println(solution.solution(x));
     }
 }
